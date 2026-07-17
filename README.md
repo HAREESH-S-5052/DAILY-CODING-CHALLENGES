@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
@@ -44,6 +45,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -75,4 +77,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
