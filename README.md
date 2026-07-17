@@ -50,6 +50,7 @@
 | [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0020-valid-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
