@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
@@ -33,6 +34,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
