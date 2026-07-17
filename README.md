@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0001-two-sum/) | Easy |
+| [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
