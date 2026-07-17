@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
