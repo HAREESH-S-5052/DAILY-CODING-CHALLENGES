@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0027-remove-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
