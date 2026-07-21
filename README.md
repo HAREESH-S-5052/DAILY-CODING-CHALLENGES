@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -25,6 +26,7 @@
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +47,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
