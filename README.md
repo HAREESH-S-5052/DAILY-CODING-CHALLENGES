@@ -22,6 +22,7 @@
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,4 +109,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
