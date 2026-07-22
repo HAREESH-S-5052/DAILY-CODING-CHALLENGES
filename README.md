@@ -13,6 +13,7 @@
 | [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
