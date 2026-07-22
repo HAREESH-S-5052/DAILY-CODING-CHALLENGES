@@ -91,6 +91,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0061-rotate-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 ## Linked List
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0061-rotate-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
