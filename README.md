@@ -27,6 +27,7 @@
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -134,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0051-n-queens](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0051-n-queens/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
