@@ -27,6 +27,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -74,6 +75,7 @@
 | [0027-remove-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
+| [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
