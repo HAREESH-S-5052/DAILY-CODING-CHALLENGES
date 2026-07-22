@@ -37,6 +37,7 @@
 | [0057-insert-interval](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -139,6 +140,7 @@
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
