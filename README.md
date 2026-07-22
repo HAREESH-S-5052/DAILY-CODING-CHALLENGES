@@ -25,6 +25,7 @@
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -110,6 +111,7 @@
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
