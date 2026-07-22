@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -60,6 +61,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -160,4 +162,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
