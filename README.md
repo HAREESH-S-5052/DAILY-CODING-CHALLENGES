@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -115,11 +116,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
