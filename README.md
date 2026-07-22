@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -134,6 +135,7 @@
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
