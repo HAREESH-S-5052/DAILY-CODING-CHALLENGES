@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
@@ -135,6 +136,7 @@
 | [0005-longest-palindromic-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
