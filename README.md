@@ -121,6 +121,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0058-length-of-last-word/) | Easy |
+| [0065-valid-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0065-valid-number/) | Hard |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
