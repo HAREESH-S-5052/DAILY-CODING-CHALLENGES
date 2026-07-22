@@ -136,6 +136,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0052-n-queens-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
