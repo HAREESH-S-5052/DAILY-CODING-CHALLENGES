@@ -40,6 +40,7 @@
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -73,6 +74,7 @@
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@
 | [0058-length-of-last-word](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
