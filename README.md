@@ -12,6 +12,7 @@
 | [0060-permutation-sequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -71,6 +72,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -122,6 +124,7 @@
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -175,6 +178,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
