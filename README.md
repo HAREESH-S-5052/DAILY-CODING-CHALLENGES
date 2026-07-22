@@ -26,6 +26,7 @@
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
@@ -42,6 +43,7 @@
 | [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Design
@@ -117,6 +119,7 @@
 | [0015-3sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0016-3sum-closest/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
 ## Backtracking
