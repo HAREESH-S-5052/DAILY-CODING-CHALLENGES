@@ -33,6 +33,7 @@
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0057-insert-interval/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
@@ -65,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -168,6 +170,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
