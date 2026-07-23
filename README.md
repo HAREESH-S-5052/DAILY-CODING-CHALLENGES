@@ -121,6 +121,7 @@
 | [0075-sort-colors](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -132,6 +133,7 @@
 | [0061-rotate-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0086-partition-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
