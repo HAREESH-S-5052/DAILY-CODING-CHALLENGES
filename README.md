@@ -166,6 +166,7 @@
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0093-restore-ip-addresses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
