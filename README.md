@@ -135,6 +135,7 @@
 | [0065-valid-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0065-valid-number/) | Hard |
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0071-simplify-path/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
