@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0076-minimum-window-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
@@ -143,11 +144,13 @@
 | [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0072-edit-distance/) | Medium |
+| [0076-minimum-window-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0076-minimum-window-substring/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
