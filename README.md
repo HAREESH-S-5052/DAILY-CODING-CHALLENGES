@@ -43,6 +43,7 @@
 | [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -63,6 +64,7 @@
 | [0012-integer-to-roman](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
@@ -204,6 +206,7 @@
 | [0059-spiral-matrix-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
