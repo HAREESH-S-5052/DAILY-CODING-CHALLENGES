@@ -48,6 +48,7 @@
 | [0075-sort-colors](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -114,6 +115,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0075-sort-colors/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
