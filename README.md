@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -94,6 +95,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
@@ -207,6 +209,7 @@
 | [0063-unique-paths-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
