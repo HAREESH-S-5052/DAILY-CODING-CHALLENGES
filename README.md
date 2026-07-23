@@ -279,6 +279,7 @@
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0100-same-tree/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +292,7 @@
 | [0096-unique-binary-search-trees](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0100-same-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,4 +307,9 @@
 | [0096-unique-binary-search-trees](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0100-same-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
