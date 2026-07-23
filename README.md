@@ -193,6 +193,7 @@
 | [0085-maximal-rectangle](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0091-decode-ways/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -220,6 +221,7 @@
 | [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0095-unique-binary-search-trees-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +278,16 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0085-maximal-rectangle/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0095-unique-binary-search-trees-ii/) | Medium |
 <!---LeetCode Topics End-->
