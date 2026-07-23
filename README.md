@@ -52,6 +52,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0085-maximal-rectangle/) | Hard |
+| [0088-merge-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -122,6 +123,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -194,6 +196,7 @@
 | [0049-group-anagrams](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
