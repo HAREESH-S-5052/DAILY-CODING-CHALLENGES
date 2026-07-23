@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -211,6 +212,7 @@
 | [0077-combinations](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
