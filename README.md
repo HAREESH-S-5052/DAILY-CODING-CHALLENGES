@@ -164,6 +164,7 @@
 | [0076-minimum-window-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@
 | [0072-edit-distance](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0085-maximal-rectangle/) | Hard |
 | [0087-scramble-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0087-scramble-string/) | Hard |
+| [0091-decode-ways](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
