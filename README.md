@@ -65,6 +65,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Binary Search
@@ -215,6 +217,7 @@
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +271,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0055-jump-game/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
