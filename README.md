@@ -84,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1603-design-parking-system](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1603-design-parking-system/) | Easy |
 ## Binary Search
@@ -174,6 +176,7 @@
 | [0097-interleaving-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
