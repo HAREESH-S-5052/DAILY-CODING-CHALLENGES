@@ -59,6 +59,7 @@
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0283-move-zeroes/) | Easy |
@@ -206,6 +207,7 @@
 | [0096-unique-binary-search-trees](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0198-house-robber/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
