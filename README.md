@@ -17,6 +17,7 @@
 | [0070-climbing-stairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
@@ -153,6 +154,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0060-permutation-sequence/) | Hard |
+| [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@
 | [0078-subsets](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
+| [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Matrix
