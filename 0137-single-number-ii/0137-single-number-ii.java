@@ -11,6 +11,6 @@ class Solution {
                 return a[i];
             }
         }
-        return -1; // If no single element exists
+        return -1;
     }
 }
