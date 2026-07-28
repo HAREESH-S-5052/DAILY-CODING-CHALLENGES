@@ -61,6 +61,7 @@
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
@@ -267,6 +268,7 @@
 | [0089-gray-code](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
