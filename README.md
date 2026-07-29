@@ -200,6 +200,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0190-reverse-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@
 | [0090-subsets-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
