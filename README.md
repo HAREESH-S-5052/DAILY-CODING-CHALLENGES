@@ -26,6 +26,7 @@
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
