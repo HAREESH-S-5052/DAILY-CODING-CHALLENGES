@@ -282,6 +282,7 @@
 | [0260-single-number-iii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
