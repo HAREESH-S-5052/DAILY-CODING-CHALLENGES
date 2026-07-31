@@ -19,6 +19,7 @@
 | [0096-unique-binary-search-trees](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
@@ -127,6 +128,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0704-binary-search/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
