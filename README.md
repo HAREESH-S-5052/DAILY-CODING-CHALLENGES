@@ -97,6 +97,7 @@
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -194,6 +195,7 @@
 | [0097-interleaving-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0290-word-pattern/) | Easy |
 | [0392-is-subsequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
