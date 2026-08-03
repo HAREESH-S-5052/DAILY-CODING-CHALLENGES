@@ -95,6 +95,7 @@
 | [0076-minimum-window-substring](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -192,6 +193,7 @@
 | [0093-restore-ip-addresses](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -240,6 +242,7 @@
 | [0088-merge-sorted-array](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0414-third-maximum-number/) | Easy |
