@@ -27,6 +27,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -101,6 +102,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2729-check-if-the-number-is-fascinating](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
