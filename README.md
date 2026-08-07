@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
@@ -173,6 +174,7 @@
 | [0050-powx-n](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0060-permutation-sequence/) | Hard |
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
