@@ -33,6 +33,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Array
 | Problem Name | Difficulty |
