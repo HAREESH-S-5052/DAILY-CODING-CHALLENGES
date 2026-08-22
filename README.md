@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0507-perfect-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0507-perfect-number/) | Easy |
@@ -178,6 +179,7 @@
 | [0206-reverse-linked-list](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -302,6 +304,7 @@
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Matrix
