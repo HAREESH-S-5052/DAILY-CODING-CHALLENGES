@@ -20,6 +20,7 @@
 | [0231-power-of-two](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -367,4 +368,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0100-same-tree/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
