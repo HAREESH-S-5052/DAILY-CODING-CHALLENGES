@@ -210,6 +210,7 @@
 | [0344-reverse-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0796-rotate-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -285,6 +286,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/HAREESH-S-5052/DAILY-CODING-CHALLENGES/tree/main/0796-rotate-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
